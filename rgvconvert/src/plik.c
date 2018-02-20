@@ -5,7 +5,7 @@
 #include <stdlib.h>  
 #include <stdio.h>  
 #include <share.h> 
-
+/*  DOC */
 
 char * buff;
 int main(int argc, const char** argv)
